@@ -1,0 +1,389 @@
+subject_id,name
+0,Maths
+1,Number
+2,BIDMAS
+3,Upper and Lower Bounds
+4,Calculator Use
+5,Decimals
+6,"Factors, Multiples and Primes"
+7,"Fractions, Decimals and Percentage Equivalence"
+8,Fractions
+9,"Indices, Powers and Roots"
+10,Basic Money
+11,Negative Numbers
+12,Percentages
+13,Proportion
+14,Ratio
+15,Standard Form
+16,Surds
+17,Algebra
+18,Expanding Single Brackets
+19,Expanding Double Brackets
+20,Factorising into a Single Bracket
+21,Factorising into a Double Bracket
+22,Straight Line Graphs
+23,Quadratic Graphs
+24,Graphs of Trigonometric Functions
+25,Cubics and Reciprocals
+26,Real Life Graphs
+27,Inequalities
+28,Rearranging Formula and Equations
+29,Sequences
+30,Writing and Simplifying Expressions
+31,Simultaneous Equations
+32,Linear Equations
+33,Quadratic Equations
+34,Solving Other Powers of x
+35,Substitution into Formula
+36,Transformation of Functions
+37,Trial and Improvement and Iterative Methods
+38,Writing Expressions
+39,Geometry and Measure
+40,3D Pythagoras
+41,"Types, Naming and Estimating"
+42,Angles
+43,Area of Simple Shapes
+44,Bearings
+45,Circles
+46,Circle Theorems
+47,Compound Measures
+48,Congruency in Triangles
+49,Co-ordinates
+50,"Construction, Loci and Scale Drawing"
+51,Properties of Polygons
+52,Nets
+53,Perimeter
+54,Plans and Elevations
+55,Properties of Quadrilaterals
+56,2D Pythagoras
+57,Length Scale Factors in Similar Shapes
+58,Symmetry
+59,Reflection
+60,Rotation
+61,Enlargement
+62,Translation and Vectors
+63,Combined Transformations
+64,Basic Trigonometry
+65,Units of Measurement
+66,Basic Vectors
+67,Volume and Surface Area
+68,Data and Statistics
+69,"Averages (mean, median, mode) from a List of Data"
+70,Averages and Range from Grouped Data
+71,Box Plots
+72,Cumulative Frequency Diagram
+73,Block Graphs and Bar Charts
+74,Histogram
+75,Pictogram
+76,Pie Chart
+77,Experimental Probability and Relative Frequency
+78,Probability of Single Events
+79,Tree Diagrams with Dependent Events
+80,Data Collection
+81,Sampling and Bias
+82,Scatter Diagram
+83,Stem and Leaf Diagram
+84,Time Series and Line Graphs
+85,Two Way Tables
+86,Advanced Pure
+87,Factor Theorem
+88,Differentiation
+89,Exponentials and Logarithms
+90,Integration
+91,Matrices
+92,Modulus Function
+93,Sequences and Series
+94,Advanced Trigonometry
+95,Advanced Vectors
+96,Rounding and Estimating
+97,Advanced Algebra
+98,Basic Arithmetic
+99,Functions
+100,Advanced Mechanics
+101,Advanced Statistics
+102,Expanding Brackets
+103,Factorising
+104,Solving Equations
+105,Formula
+106,Writing Formula
+107,Other Graphs
+108,Equation of a Circle
+109,Graphs of Exponentials and Other Powers of x
+110,Transformations of functions in the form y =
+111,Transformations of functions in the form f(x)
+112,Inequalities on Number Lines
+113,Solving Linear Inequalities
+114,Graphing Linear Inequalities (Shading Regions)
+115,Solving Quadratic Inequalities
+116,Linear Sequences (nth term)
+117,Quadratic Sequences
+118,Other Sequences
+119,2D Names and Properties of Shapes
+120,Properties of Triangles
+121,3D Shapes
+122,Names and Properties of 3D Shapes
+123,Perimeter and Area
+124,Compound Area
+125,Measuring Angles
+126,"Basic Angle Facts (straight line, opposite, around a point, etc)"
+127,Angle Facts with Parallel Lines
+128,Angles in Polygons
+129,Parts of a Circle
+130,Circumference
+131,Area of a Circle
+132,Sectors of a Circle
+133,Surface Area of Prisms
+134,Volume of Prisms
+135,Construct Angle
+136,Construct Triangle
+137,Construct Angle and Line Bisectors
+138,Loci Scenarios
+139,Length Units
+140,Area Units
+141,Volume and Capacity Units
+142,Weight Units
+143,Temperature units
+144,Counting
+145,Place Value
+146,Mental Addition and Subtraction
+147,Mental Multiplication and Division
+148,Written Addition
+149,Written Subtraction
+150,Written Multiplication
+151,Written Division
+152,Time
+153,Ordering Negative Numbers
+154,Adding and Subtracting Negative Numbers
+155,Multiplying and Dividing Negative Numbers
+156,"Rounding to the Nearest Whole (10, 100, etc)"
+157,Rounding to Decimal Places
+158,Rounding to Significant Figures
+159,Estimation
+160,Basic Calculator Use
+161,Advanced Calculator Use
+162,Factors and Highest Common Factor
+163,Multiples and Lowest Common Multiple
+164,Prime Numbers and Prime Factors
+165,Ordering Decimals
+166,Adding and Subtracting with Decimals
+167,Multiplying and Dividing with Decimals
+168,Fractions of an Amount
+169,Equivalent Fractions
+170,Simplifying Fractions
+171,Ordering Fractions
+172,Converting Mixed Number and Improper Fractions
+173,Adding and Subtracting Fractions
+174,Multiplying Fractions
+175,Dividing Fractions
+176,Percentages of an Amount
+177,Percentage Increase and Decrease
+178,Reverse Percentages (Original Amount)
+179,Repeated Percentages and Compound Interest
+180,Converting between Fractions and Decimals
+181,Converting between Fractions and Percentages
+182,Converting between Decimals and Percentages
+183,Simplifying and Equivalent Ratios
+184,Sharing in a Ratio
+185,Find Missing Quantities
+186,Direct Proportion
+187,Indirect (Inverse) Proportion
+188,"Squares, Cubes, etc"
+189,"Square Roots, Cube Roots, etc"
+190,Laws of Indices
+191,Simplifying Surds
+192,Operations with Surds
+193,Rationalising the Denominator
+194,Simplifying Expressions by Collecting Like Terms
+195,Multiplying Terms
+196,Dividing Terms
+197,Difference of Two Squares
+198,Algebraic Fractions
+199,Completing the Square
+200,Plotting Lines from Tables of Values
+201,Horizontal and Vertical Lines
+202,Finding the Equation of a Line
+203,Finding the Gradient and Intercept of a Line from the Equation
+204,Gradient as change in y over change in x
+205,Parallel Lines
+206,Perpendicular Lines
+207,Graphical Solution of Simultaneous Equations
+208,Plotting Quadratics from Tables of Values
+209,Sketching from Factorised Form
+210,Sketching from Completing the Square Form
+211,Graphical Solution of Quadratic Equations
+212,"Speed, Distance, Time"
+213,Density
+214,Pythagoras
+215,Similarity and Congruency
+216,"Length, Area and Volume Scale Factors"
+217,Congruency in Other Shapes
+218,Line Symmetry
+219,Rotational Symmetry
+220,3D Plane Symmetry
+221,Transformations
+222,Right-angled Triangles (SOHCAHTOA)
+223,Non Right-angled Triangles (Sine and Cosine Rules)
+224,Area of Non Right-angled Triangles
+225,Exact Values of Trigonometric Ratios
+226,Add and Subtract Vectors
+227,Vector Geometry
+228,Kinematics
+229,Advanced Measures of Variation
+230,Permutations and Combinations
+231,Regression
+232,Money
+233,Currency Conversions
+234,Writing Ratios
+235,Expanding Triple Brackets and more
+236,Tally Charts
+237,Types of Data and Questionnaires
+238,Data Processing
+239,Range and Interquartile Range from a List of Data
+240,Averages and Range from Frequency Table
+241,Interpreting and Comparing Data using Averages and Range
+242,Data Representation
+243,Frequency Diagram and Frequency Polygon
+244,Venn Diagrams
+245,Probability
+246,Combined Events
+247,Tree Diagrams with Independent Events
+248,Using the Probability Addition Formula
+249,Using the Conditional Probability Formula
+250,Probability with Venn Diagrams
+251,Algebraic Division
+252,Remainder Theorem
+253,Arithmetic Sequences
+254,Recurrence Relations
+255,Sigma Notation
+256,Summing Series
+257,Basic dy/dx
+258,Differentiation from First Principals
+259,Finding the Gradient
+260,Finding Maximums and Minimums
+261,Increasing and Decreasing Functions
+262,Equations of Tangents
+263,Equations of Normals
+264,Second Order Derivative
+265,Basic Indefinite Integration
+266,Naming Co-ordinates in 2D
+267,Naming Co-ordinates in 3D
+268,Midpoint Between Two Co-ordinates
+269,Gradient Between Two Co-ordinates
+270,Distance Between Two Co-ordinates
+271,Radians
+272,Converting Between Degrees and Radians
+273,Solving Basic Trigonometric Equations
+274,Basic Trigonometric Identities
+275,Reciprocal Trigonometric Identities
+276,Laws of Logarithms
+277,Solving Equations with Exps and Logs
+278,Graphs of Exp and Log Functions
+279,Function Notation
+280,Domain and Range
+281,Inverse Functions
+282,Composite Functions
+283,Angles in Triangles
+284,Addition and Subtraction of Vectors
+285,Position Vectors and Geometrical Applications
+286,Addition and Subtraction of Matrices
+287,Multiplication of Matrices
+288,Transformations of Matrices
+289,Roots of Polynomials
+290,Cubic Equations
+291,"Co-ordinate Geometry Problems (tangents, normals)"
+292,Standard Deviation and Variance from Discrete Data
+293,Factorial Notation
+294,Regression Equation
+295,Velocity-Time Graphs
+296,Displacement-Time Graphs
+297,Function Machines
+298,Relating Quadratic Graphs to the Discriminant
+299,Missing Lengths
+300,Co-ordinate Geometry with Straight Lines
+301,Isometric Drawings
+302,Physics
+303,Forces and Motion
+304,Speed and Distance-Time graphs
+305,Best Value
+306,Solving Trigonometric Equations
+307,Simplifying Algebraic Fractions
+308,Adding and Subtracting Algebraic Fractions
+309,Multiplying and Dividing Algebraic Fractions
+310,Solving Equations with Algebraic Fractions
+311,Algebraic Proof
+312,Recurring Decimals to Fractions
+313,Maths-Others
+314,Number-Others
+315,Calculator Use-Others
+316,Decimals-Others
+317,"Factors, Multiples and Primes-Others"
+318,"Fractions, Decimals and Percentage Equivalence-Others"
+319,Fractions-Others
+320,"Indices, Powers and Roots-Others"
+321,Negative Numbers-Others
+322,Percentages-Others
+323,Proportion-Others
+324,Ratio-Others
+325,Surds-Others
+326,Algebra-Others
+327,Straight Line Graphs-Others
+328,Quadratic Graphs-Others
+329,Inequalities-Others
+330,Sequences-Others
+331,Writing and Simplifying Expressions-Others
+332,Transformation of Functions-Others
+333,Geometry and Measure-Others
+334,Angles-Others
+335,Circles-Others
+336,Compound Measures-Others
+337,Co-ordinates-Others
+338,"Construction, Loci and Scale Drawing-Others"
+339,Symmetry-Others
+340,Basic Trigonometry-Others
+341,Units of Measurement-Others
+342,Basic Vectors-Others
+343,Volume and Surface Area-Others
+344,Data and Statistics-Others
+345,Data Collection-Others
+346,Advanced Pure-Others
+347,Advanced Vectors-Others
+348,Rounding and Estimating-Others
+349,Advanced Algebra-Others
+350,Basic Arithmetic-Others
+351,Functions-Others
+352,Advanced Statistics-Others
+353,Expanding Brackets-Others
+354,Factorising-Others
+355,Solving Equations-Others
+356,Formula-Others
+357,Other Graphs-Others
+358,2D Names and Properties of Shapes-Others
+359,3D Shapes-Others
+360,Perimeter and Area-Others
+361,Algebraic Fractions-Others
+362,Pythagoras-Others
+363,Similarity and Congruency-Others
+364,Transformations-Others
+365,Money-Others
+366,Data Processing-Others
+367,Data Representation-Others
+368,Probability-Others
+369,Systematic Listing Strategies
+370,Science
+371,Scale Drawing and Maps
+372,Surface Area of Non-Prisms
+373,Volume of Non-Prisms
+374,Frequency Trees
+375,3D Trigonometry
+376,Limiting Values of Sequences
+377,Roman Numerals
+378,Pressure
+379,Combining Operations
+380,Frequency tables
+381,Mixed operation Negative Numbers
+382,Types of number
+383,Mixed operation Fractions
+384,Drawing Axes
+385,Reading Scales
+386,Sorting Shapes
+387,Labelling Shapes
